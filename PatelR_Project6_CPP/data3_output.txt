@@ -1,0 +1,27 @@
+New Color: 1
+Node Color Array: 0000000000
+New Color: 2
+Node Color Array: 2000000200
+New Color: 3
+Node Color Array: 2000003203
+New Color: 4
+Node Color Array: 2000043243
+New Color: 5
+Node Color Array: 2000553243
+New Color: 6
+Node Color Array: 2006653243
+New Color: 7
+Node Color Array: 2077653243
+New Color: 8
+Node Color Array: 2887653243
+0 0 0 0 0 0 0 0 0 0 0 
+0 2 0 0 0 0 0 0 1 1 0 
+0 0 8 0 0 1 0 0 0 0 0 
+0 0 0 8 0 0 0 0 0 1 0 
+0 0 0 0 7 0 0 0 0 0 1 
+0 0 0 0 0 6 0 0 0 0 0 
+0 0 0 0 0 0 5 0 0 0 0 
+0 0 0 0 0 0 0 3 0 0 0 
+0 1 0 0 0 0 0 0 2 0 0 
+0 0 0 1 0 0 0 0 0 4 1 
+0 0 1 0 1 0 0 0 0 0 3 
